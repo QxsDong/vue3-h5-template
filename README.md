@@ -1,36 +1,3 @@
- **🌱 基于 Vue3 全家桶、TypeScript、Vite 构建工具，开箱即用的移动端项目基础模板**
-
-- [x] ⚡ Vue3 + Vite4
-- [x] 🍕 TypeScript
-- [x] ✨ Vant4 组件库
-- [x] 🌀 Tailwindcss 原子类框架
-- [x] 🍍 Pinia 状态管理
-- [x] Vue-router 4
-- [x] 支持 SVG 图标自动注册组件
-- [x] vw 视口适配
-- [x] Axios 封装
-- [x] 打包资源 gzip 压缩
-- [x] 开发环境支持 Mock 数据
-- [x] ESLint
-- [x] 首屏加载动画
-- [x] 开发环境调试面板
-- [ ] TODO: 生产环境 CDN 依赖
-
-
-
-## 在线预览Preview
-
-👓 [点击这里](https://yulimchen.github.io/vue3-h5-template/)（PC浏览器请切换手机端模式）
-
-
-
-
-## 截图
-
-![](docs/assets/img/Snipaste_2023-03-06_23-56-20.png)
-
-
-
 ## 运行项目
 
 注意：要求 Node 版本 16+，可使用 [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) 进行本地 Node 版本管理，同时建议使用 [pnpm](https://pnpm.io/zh/installation) 包管理器。
@@ -252,18 +219,3 @@ feat(layout): 布局完成
 
 
 
-## 鸣谢
-
- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) 
-
- [vant-demo](https://github.com/youzan/vant-demo) 
-
- [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
-
- [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
-
-
-
-## License
-
-[MIT license](https://github.com/yulimchen/vue3-h5-template/blob/master/LICENSE).
